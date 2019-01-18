@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Events Integration</string>
+
+    <string name="app_id">1794631367482701</string>
+
+    <!--LOGIN-->
+
+    <string name="login_canceled">Login attempt canceled.</string>
+
+    <string name="login_error">Login attempt failed.</string>
+
+    <string name="event_name">Event Name:</string>
+    <string name="event_desc">Event Description:</string>
+    <string name="event_city">Event City:</string>
+    <string name="event_country">Event Country:</string>
+    <string name="image_desc">image desc</string>
+
+</resources>
