@@ -34,6 +34,10 @@ Click Run/Run 'app' to see if it's resolved correctly
 
 This will run the app on your device. You may need to download a newer version of Gradle, which will be available in the Android Studio UI if compile fails.
 
-![test image size](https://github.com/MilanBojic/fbeventsintegration/blob/master/image1.png){:height="50%" width="50%"}
+## What does it look like?
+
+![test image size](https://github.com/MilanBojic/fbeventsintegration/blob/master/image1.png)
+![test image size](https://github.com/MilanBojic/fbeventsintegration/blob/master/image2.png)
+![test image size](https://github.com/MilanBojic/fbeventsintegration/blob/master/image3.png)
 
 
