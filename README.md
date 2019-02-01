@@ -35,3 +35,6 @@ Click Run/Run 'app' to see if it's resolved correctly
 This will run the app on your device. You may need to download a newer version of Gradle, which will be available in the Android Studio UI if compile fails.
 
 ![](https://files.fm/u/88ya3j2y#/view/Screenshot_20190116-135300.png)
+
+
+[![N|Solid](https://files.fm/u/88ya3j2y#/view/Screenshot_20190116-135300.png)](https://files.fm/u/88ya3j2y#/view/Screenshot_20190116-135300.png)
