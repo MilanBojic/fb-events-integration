@@ -43,4 +43,5 @@ This will run the app on your device. You may need to download a newer version o
 ![test image size](https://github.com/MilanBojic/fbeventsintegration/blob/master/image3.png)
 
 
-
+**Support**
+If you've found an error while using the library, please file an issue. All patches are encouraged, and may be submitted by forking this project and submitting a pull request through GitHub.
