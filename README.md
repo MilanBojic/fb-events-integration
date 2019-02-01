@@ -1,9 +1,8 @@
-﻿# Facebook events integration
+# Facebook events integration
 
 ## What is this?
 
 Facebook events integration application - synchronization your events and presents in list of your events for the user who have been logged in facebook app.
-
 
 ## Requirements
 
@@ -35,7 +34,4 @@ Click Run/Run 'app' to see if it's resolved correctly
 
 This will run the app on your device. You may need to download a newer version of Gradle, which will be available in the Android Studio UI if compile fails.
 
-![](fbintegration/Screenshot_20190116-135300.png)
-
-
-
+![](C:\Users\milan1\Desktop\fbintegration\Screenshot_20190116-135300.png)
